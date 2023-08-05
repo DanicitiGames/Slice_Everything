@@ -1,5 +1,8 @@
 # Slice_Everything
+
 Um jogo open-source Unity para dispositivos Android.
+
+![Captura de Tela](https://i.imgur.com/AbvIDez.png)
 
 ## Instalação
 
